@@ -110,4 +110,4 @@ Copy code
         
         
         
-<img src="https://img.shields.io/badge/-1С_Управление_персоналом-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MS_Excel-green?style=for-the-badge&logo=microsoft-excel">
+<img src="https://img.shields.io/badge/-1С_Управление_персоналом-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MS_Excel-green?style=for-the-badge&logo=microsoft-excel"> <img src="https://img.shields.io/badge/-MS_Word-green?style=for-the-badge&logo=microsoft-word"> <img src="https://img.shields.io/badge/-MS_PowerPoint-green?style=for-the-badge&logo=microsoft-powerpoint"> <img src="https://img.shields.io/badge/-AutoCAD-green?style=for-the-badge"

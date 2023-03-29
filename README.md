@@ -79,3 +79,31 @@ You can reach me at:
     <a href="#"><img src="https://img.shields.io/badge/-Responsibility-brightgreen?style=for-the-badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/-Stress Tolerance-brightgreen?style=for
+        
+        
+
+        
+markdown
+Copy code
+## Hard Skills
+
+![Flexibility](https://img.icons8.com/color/48/000000/change--v1.png "Flexibility")
+![Business Communication](https://img.icons8.com/color/48/000000/conference-call--v1.png "Business Communication")
+![Initiative](https://img.icons8.com/color/48/000000/gear--v1.png "Initiative")
+![Interpersonal Skills](https://img.icons8.com/color/48/000000/teamwork--v1.png "Interpersonal Skills")
+![Trainability](https://img.icons8.com/color/48/000000/information--v1.png "Trainability")
+![Responsibility](https://img.icons8.com/color/48/000000/checkmark--v1.png "Responsibility")
+![People Management](https://img.icons8.com/color/48/000000/conference-call--v1.png "People Management")
+![Stress Tolerance](https://img.icons8.com/color/48/000000/under-pressure--v1.png "Stress Tolerance")
+![Project Management](https://img.icons8.com/color/48/000000/project-management--v1.png "Project Management")
+![Goal Orientation](https://img.icons8.com/color/48/000000/goal--v1.png "Goal Orientation")
+![Ambition](https://img.icons8.com/color/48/000000/trophy--v1.png "Ambition")
+![Results Oriented](https://img.icons8.com/color/48/000000/rocket--v1.png "Results Oriented")
+![1C: Human Resources Management](https://img.icons8.com/color/48/000000/1c-company--v1.png "1C: Human Resources Management")
+![Big Data Management](https://img.icons8.com/color/48/000000/database.png "Big Data Management")
+![Sales Skills](https://img.icons8.com/color/48/000000/sales-performance--v1.png "Sales Skills")
+![Microsoft Excel](https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png "Microsoft Excel")
+![Microsoft Word](https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png "Microsoft Word")
+![Microsoft PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png "Microsoft PowerPoint")
+![AutoCAD](https://img.icons8.com/color/48/000000/autodesk-autocad--v1.png "AutoCAD")
+![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png "Adobe Photoshop")

@@ -45,3 +45,37 @@ You can reach me at:
 <a href="#"><img src="https://img.shields.io/badge/-Коммуникабельность-blue?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Обучаемость-blue?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ответственность-blue?style=for-the-badge"></a>
+
+
+
+
+<div align="center">
+  <h2>Skills</h2>
+  <h3>Hard Skills</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/-MS Excel-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-MS Word-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-MS PowerPoint-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-AutoCAD-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Adobe Photoshop-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-1C: Enterprise 8-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Maconomy-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-MS Outlook-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Jupyter Notebook-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Tableau-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Matplotlib-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Plotly-blue?style=for-the-badge"></a>
+  </p>
+  <h3>Soft Skills</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/-Adaptability-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Business Communication-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Initiative-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Interpersonal Skills-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Trainability-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Responsibility-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Teamwork-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/-Stress Tolerance-brightgreen?style=for

@@ -17,3 +17,22 @@ You can reach me at:
     <a href="https://www.facebook.com/AlexeyAnisimov83"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://vk.com/id629331"><img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk&logoColor=white"></a>
 </div>
+
+## Hard skills
+
+<a href="#"><img src="https://img.shields.io/badge/-1С_Управление_персоналом-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MS_Excel-green?style=for-the-badge&logo=microsoft-excel"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MS_Word-green?style=for-the-badge&logo=microsoft-word"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MS_PowerPoint-green?style=for-the-badge&logo=microsoft-powerpoint"></a>
+<a href="#"><img src="https://img.shields.io/badge/-AutoCAD-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Adobe_Photoshop-green?style=for-the-badge&logo=adobe-photoshop"></a>
+<a href="#"><img src="https://img.shields.io/badge/-1С_Предприятие_8-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Maconomy-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-MS_Outlook-green?style=for-the-badge&logo=microsoft-outlook"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python"></a>
+<a href="#"><img src="https://img.shields.io/badge/-SQL-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Jupyter_Notebook-green?style=for-the-badge&logo=jupyter"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Tableau-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Matplotlib-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Seaborn-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Plotly-green?style=for-the-badge"></a>

@@ -1,4 +1,6 @@
-# About Me
+# Hi there, I'm Alexey Anisimov 👋
+
+## About Me
 
 My name is Alexey Anisimov and I am a data analyst, middle-management leader, project sales manager, and project manager. With extensive experience in the field of data analysis, I have honed my skills in data visualization, statistical modeling, and database management.
 

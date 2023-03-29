@@ -107,3 +107,11 @@ Copy code
 ![Microsoft PowerPoint](https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png "Microsoft PowerPoint")
 ![AutoCAD](https://img.icons8.com/color/48/000000/autodesk-autocad--v1.png "AutoCAD")
 ![Adobe Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png "Adobe Photoshop")
+        
+        
+        
+<img src="https://img.shields.io/badge/-1С_Управление_персоналом-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/-MS_Excel-green?style=for-the-badge&logo=microsoft-excel">
+<img src="https://img.shields.io/badge/-MS_Word-green?style=for-the-badge&logo=microsoft-word">
+<img src="https://img.shields.io/badge/-MS_PowerPoint-green?style=for-the-badge&logo=microsoft-powerpoint">
+

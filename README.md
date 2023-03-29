@@ -36,3 +36,12 @@ You can reach me at:
 <a href="#"><img src="https://img.shields.io/badge/-Matplotlib-green?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Seaborn-green?style=for-the-badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Plotly-green?style=for-the-badge"></a>
+
+## Soft skills
+
+<a href="#"><img src="https://img.shields.io/badge/-Гибкость_мышления-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Деловая_коммуникация-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Инициативность-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Коммуникабельность-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Обучаемость-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/-Ответственность-blue?style=for-the-badge"></a>

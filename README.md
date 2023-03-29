@@ -1,4 +1,4 @@
-# Hi there, I'm Alexey Anisimov 👋
+# Hi there👋
 
 ## About Me
 

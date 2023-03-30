@@ -39,3 +39,10 @@ You can reach me at:
     <a href="https://vk.com/id629331"><img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk&logoColor=white" style="border-radius: 50%;"></a>
 </div>
 
+
+<div style="display: flex; justify-content: center;">
+    <a href="mailto:a.anisimov83@mail.ru"><img src="https://www.logolynx.com/images/logolynx/65/65f82ed7e7f3047709c1d490f3f7e6c0.png" alt="mail" style="height: 30px; margin-right: 10px;"></a>
+    <a href="https://www.facebook.com/AlexeyAnisimov83"><img src="https://www.logolynx.com/images/logolynx/47/4773b0b6d2c03aa285b19650a06c5d69.jpeg" alt="facebook" style="height: 30px; margin-right: 10px;"></a>
+    <a href="https://vk.com/id629331"><img src="https://www.logolynx.com/images/logolynx/21/21a0753e0702e5ee673e16a6e394aa8f.png" alt="vk" style="height: 30px;"></a>
+</div>
+

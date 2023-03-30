@@ -31,3 +31,11 @@ You can reach me at:
     <a href="https://www.facebook.com/AlexeyAnisimov83"><img style="border-radius: 50%;" src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://vk.com/id629331"><img style="border-radius: 50%;" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk&logoColor=white"></a>
 </div>
+
+
+<div style="display: flex; justify-content: center;">
+    <a href="mailto:a.anisimov83@mail.ru"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=mail.ru&logoColor=white" style="border-radius: 50%;"></a>
+    <a href="https://www.facebook.com/AlexeyAnisimov83"><img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 50%;"></a>
+    <a href="https://vk.com/id629331"><img src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk&logoColor=white" style="border-radius: 50%;"></a>
+</div>
+
